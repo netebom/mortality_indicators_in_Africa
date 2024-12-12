@@ -211,3 +211,11 @@ To address the multifaceted health challenges faced by African countries, partic
 
 The challenges facing countries like Nigeria, Ethiopia, and Botswana (with high maternal and infant mortality rates), and countries like Guinea, Togo, and Niger (with poor under-15 mortality records) require comprehensive and sustained solutions. These solutions must address both the supply side (healthcare infrastructure, training, policy support) and the demand side (education, economic empowerment, community engagement). By focusing on strengthening healthcare systems, improving nutrition, increasing access to family planning, promoting gender equality, and ensuring international collaboration, it is possible to reduce maternal and child mortality rates and significantly improve health outcomes across the continent.
 
+
+#### APPRECIATION  
+Special thanks to [Mr Dayo Dada](https://github.com/Deewhy254) and the Regonet Team for all the new things they taught me while taking the Data Analytics course with them.  
+I also want to thank you for taking your time to go through this project.
+
+#### Author
+[Etebom Ntuk](https://github.com/netebom)  
+
