@@ -42,6 +42,49 @@ All datasets filtered to include only African countries using ISO codes.
 3. **Visualization & Insight Generation**:
    - Identified countries with highest/lowest health coverage
    - Compared immunization and child survival rates across Africa
+---
+
+## 📊 EXPLORATORY DATA ANALYSIS
+The following visualizations show trends and outcomes of analysis.
+
+The summary statistics of the concatenated dataframe (mentioned earlier) revealed the various count of records, mean, standard deviation, minimum, median, and maximum values of each numerical column. 
+![Descriptive Statistics](screenshots/desc_stat.jpg)
+
+
+- Leading Causes of various mortality rates
+
+![Infant Mortalityt](screenshots/cod_im.png)
+
+![Child Mortality](screenshots/cod_cm.png)
+
+![Youth Mortality](screenshots/cod_ym.png)
+
+![Maternal Mortality](screenshots/cod_mm.png)
+
+
+
+- African Countries by various Mortality rates
+
+![Infant Mortality](screenshots/ac_im.png)
+
+![Child Mortality](screenshots/ac_cm.png)
+
+![Youth Mortality](screenshots/ac_ym.png)
+
+![Maternal Mortality](screenshots/ac_mm.png)
+
+  
+- Correlation Heatmap of Infant Immunization rates
+
+![Heatmap](screenshots/heatmap.png)
+
+- Subplots of Pairplots showing the paired relationships between Infant Immunization rates
+
+![Pairplot](screenshots/pairplot.png)
+
+  
+- Stacked Column chart of Mean Infant immunization rates by African countries
+![Stacked Column chart](screenshots/stacked.png)
 
 ---
 
